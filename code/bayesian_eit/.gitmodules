@@ -1,0 +1,3 @@
+[submodule "cpp/external/cmcmc"]
+	path = cpp/external/cmcmc
+	url = https://github.com/jcockayne/cmcmc

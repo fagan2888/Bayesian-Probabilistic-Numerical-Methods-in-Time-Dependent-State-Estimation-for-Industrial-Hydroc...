@@ -1,0 +1,7 @@
+python/build
+python/*.egg-info
+python/.idea
+*.pyc
+*.so
+cpp/build
+cpp/lib
